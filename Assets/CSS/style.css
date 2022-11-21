@@ -1,0 +1,106 @@
+.nav>li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 60px;
+}
+.logo img{
+    width:110px;
+}
+ .ishu{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+}
+body{
+    background-color: rgb(238, 245, 252);
+}
+p{
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 140px;
+    margin-top: 80px;
+    border: 1px solid white;
+    background-color: rgb(77, 77, 132);
+    border-radius: 10px;
+    width:390px;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+.anchor{
+    color:white;
+}
+h3{
+    font-size: 13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(0, 0, 0, 0.593);
+    margin-left: 140px;
+    margin-top: 1px;
+    padding-bottom: 600px;
+}
+.email {
+    margin-left: 140px;
+    margin-top: -500px;
+}
+
+
+
+
+
+
+.ishu-3 {
+    margin-left: 140px;
+    
+
+}
+.company{
+    margin-left: 140px;
+    margin-top: 350px;
+}
+ .navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left:50px;
+    margin-top:50px;
+ }
+ .navlinks {
+    margin-top:10px;
+    margin-right:50px;
+    
+
+ }
+.btn1 {
+    width:100px;
+    height:40px;
+    border-radius: 10px;
+    background-color:purple ;
+    color:white;
+}
+.para1 {
+    height:25px;
+    align-items: center;
+}
+input [type=email] {
+    width:80px;
+    height:80px;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.imageillus {
+    padding-left:800px;
+    padding-top:-1000px;
+    padding-bottom:500;
+}
+   
